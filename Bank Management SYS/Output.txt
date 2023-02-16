@@ -1,0 +1,192 @@
+
+ ---------------------------------------BANK MANAGEMENT SYSTEM---------------------------------------
+
+                                                  BY
+                                          SNEHARSH & RUTVIK
+
+Press 1 to start= 1
+
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 1
+
+Enter First Name= Rutvik
+
+Enter Last Name= Sawant
+
+Enter Phone Number= 876552356
+
+Enter Email ID= rutviks@gmail.com
+
+Enter Account ID= 1001
+
+Enter expected cash(in Rupees)= 7000
+Press 1 to Enter again= 1
+
+Enter First Name= Sneharsh
+
+Enter Last Name= Kerkar
+
+Enter Phone Number= 987876675
+
+Enter Email ID= sneharshk@yahoo.in
+
+Enter Account ID= 1002
+
+Enter expected cash(in Rupees)= 5000
+Press 1 to Enter again= 1
+
+Enter First Name= Richie
+
+Enter Last Name= Rich
+
+Enter Phone Number= 0987655454
+
+Enter Email ID= richkid@ac.in
+
+Enter Account ID= 1003
+
+Enter expected cash(in Rupees)= 9000
+Press 1 to Enter again= 0
+
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 2
+
+---------------------------------------Bank Account Management System---------------------------------------
+
+
+Account ID              Last Name               First Name              Phone Number            Email           Balancein Rs.
+1001                    Sawant                  Rutvik                  876552356               rutviks@gmail.com      7000
+
+
+1002                    Kerkar                  Sneharsh                        987876675               sneharshk@yahoo.in              5000
+
+
+1003                    Rich                    Richie                  987655454               richkid@ac.in          9000
+
+
+Total Account Holders= 3
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 3
+Enter Account ID
+1002
+Enter Account ID
+1002
+Enter amount you want to deposite
+3500
+After deposition your total amount in account is 8500
+
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 2
+
+---------------------------------------Bank Account Management System---------------------------------------
+
+
+Account ID              Last Name               First Name              Phone Number            Email           Balance in Rs.
+1001                    Sawant                  Rutvik                  876552356               rutviks@gmail.com               7000
+
+
+1002                    Kerkar                  Sneharsh                        987876675               sneharshk@yahoo.in              8500
+
+
+1003                    Rich                    Richie                  987655454               richkid@ac.in           9000
+
+
+Total Account Holders= 3
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 4
+Enter Account ID
+1003
+Enter Account ID
+1003
+Enter Account ID
+1003
+Enter amount you want to withdraw
+3000
+After withdrawal your total amount in account is 6000
+
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 2
+
+---------------------------------------Bank Account Management System---------------------------------------
+
+
+Account ID              Last Name               First Name              Phone Number            Email           Balance in Rs.
+1001                    Sawant                  Rutvik                  876552356               rutviks@gmail.com               7000
+
+
+1002                    Kerkar                  Sneharsh                        987876675               sneharshk@yahoo.in              8500
+
+
+1003                    Rich                    Richie                  987655454               richkid@ac.in           6000
+
+
+Total Account Holders= 3
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 5
+
+Enter the Account ID you want to search = 1005
+
+ID NOT FOUND!!!
+
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice= 5
+
+Enter the Account ID you want to search = 1001
+
+-------------DETAILS OF THE ACCOUNT HOLDER-------------
+
+Account id: 1001
+Last Name: Sawant
+First Name: Rutvik
+Phone number: 876552356
+Email id: rutviks@gmail.com
+Cash in account: Rs. 7000
+
+
+ MENU
+                        1.OpenAccount
+                        2.DisplayDetails
+                        3.Deposit
+                        4.Withdrawal
+                        5.Search an Account
+Enter your choice=
